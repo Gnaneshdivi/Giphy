@@ -1,16 +1,24 @@
 # giphy
+🌟 ***Here are the features of this product:***
 
-A new Flutter project.
+💻 **Basic GIF Display:** **
 
-## Getting Started
+Create a simple app to display a list of GIFs from a given API.
 
-This project is a starting point for a Flutter application.
+💁🏾‍♀️ **Trending GIFs with Optimized Grid:** 
 
-A few resources to get you started if this is your first Flutter project:
+Add a section for trending GIFs displayed in an optimized grid layout. **
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🔎**Simple Search Functionality:**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Include a search feature for filtering GIFs by keywords
+
+📜**Infinite Scroll**
+
+The store should have an infinite scroll, where the GIFs will keep loading as and when the user Scrolls.
+
+🔄**Basic Theme Toggle:**
+Implement a theme toggle between light and dark modes.
+
+# Mock UI
+<img width="537" alt="Screenshot 2024-03-21 at 4 24 14 PM" src="https://github.com/Gnaneshdivi/Giphy/assets/55071482/7b1e36c8-a657-4000-9a58-0491b6895197">
